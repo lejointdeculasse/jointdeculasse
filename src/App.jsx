@@ -20,11 +20,11 @@ export default function App() {
       embed: "https://www.youtube.com/embed/videoseries?list=PLQXI7n6TCD3vosmiZjckCj59lXLFqUDdx",
     },
     {
-      title: "Remise en route",
+      title: "On redémarre les bolides",
       description:
         "Des voitures oubliées qu’on tente de faire repartir. Parfois ça marche… parfois non.",
       badge: "Série atelier",
-      embed: "https://www.youtube.com/embed/VIDEO_ID_2",
+      embed: "https://www.youtube.com/embed/videoseries?list=PLQXI7n6TCD3uchL1YFv0ViZTpwm6CKDOg",
     },
     {
       title: "Dans le rétro",
