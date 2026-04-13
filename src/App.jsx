@@ -17,7 +17,7 @@ export default function App() {
       description:
         "Le projet principal : swap, galères, mécanique et vraie vie d'atelier.",
       badge: "Projet principal",
-      embed: "https://www.youtube.com/embed/KzyJEBg__Ls",
+      embed: "https://www.youtube.com/embed/videoseries?list=PLQXI7n6TCD3vosmiZjckCj59lXLFqUDdx",
     },
     {
       title: "Remise en route",
