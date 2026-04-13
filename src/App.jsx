@@ -27,11 +27,11 @@ export default function App() {
       embed: "https://www.youtube.com/embed/videoseries?list=PLQXI7n6TCD3uchL1YFv0ViZTpwm6CKDOg",
     },
     {
-      title: "Dans le rétro",
+      title: "Mercedes S124",
       description:
-        "Les sportives et légendes auto année par année, en format rapide et efficace.",
-      badge: "Rétrospective",
-      embed: "https://www.youtube.com/embed/videoseries?list=PLQXI7n6TCD3uQ3dPkBPcjnxHnZ64m4YAz",
+        "Un break Mercedes qui va clairement pas rester d’origine. Prépa, modifs, et sûrement quelques surprises.",
+      badge: "Projet",
+      embed: "https://www.youtube.com/embed/videoseries?list=PLQXI7n6TCD3vlAcZGA2cpjaDdl2wlTN4d",
     },
   ];
 
