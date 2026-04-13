@@ -2,7 +2,7 @@ export default function App() {
   const youtubeUrl = "https://youtube.com/@lejointdeculasse";
   const logoUrl = "/logo-joint-de-culasse.png";
   const contactEmail = "partenariat@jointdeculasse.fr";
-  const heroVideo = "https://www.youtube.com/embed/VIDEO_ID_MAIN";
+  const heroVideo = "https://www.youtube.com/embed/COFDURtc6pU";
 
   const socials = [
     { name: "YouTube", url: youtubeUrl },
