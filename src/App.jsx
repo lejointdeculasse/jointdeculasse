@@ -31,7 +31,7 @@ export default function App() {
       description:
         "Les sportives et légendes auto année par année, en format rapide et efficace.",
       badge: "Rétrospective",
-      embed: "https://www.youtube.com/embed/VIDEO_ID_3",
+      embed: "https://www.youtube.com/embed/videoseries?list=PLQXI7n6TCD3uQ3dPkBPcjnxHnZ64m4YAz",
     },
   ];
 
